@@ -1,0 +1,18 @@
+%%[ ProductName: Distiller ]%%
+%%[Page: 1]%%
+%%[ Error: invalidfileaccess; OffendingCommand: setcachedevice ]%%
+
+Stack:
+10
+10
+-10
+-10
+0
+1
+/60
+-dict-
+-save-
+
+
+%%[ Flushing: rest of job (to end-of-file) will be ignored ]%%
+%%[ Warning: PostScript error. No PDF file produced. ] %%
